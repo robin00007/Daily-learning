@@ -1,0 +1,4 @@
+ 
+{
+    "mongoURI":"mongodb+srv://ContactAdmin:ContactAdmin@contact.um4zw.mongodb.net/ContactAdmin?retryWrites=true&w=majority"
+}
